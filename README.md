@@ -121,7 +121,10 @@ Supports management decisions with clear, data-driven insights
 
 📸 Preview
 
-https://github.com/snehakakkar279-ops/Billing-Dashboard-/blob/main/Snapshot%20of%20Billing%20Dashboard%20.png
+![image alt](https://github.com/snehakakkar279-ops/Billing-Dashboard-/blob/main/Snapshot%20of%20Billing%20Dashboard%20.png)
+
+
+
 
 
 
